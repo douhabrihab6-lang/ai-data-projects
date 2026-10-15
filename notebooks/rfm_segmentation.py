@@ -1,7 +1,7 @@
 # =============================================================
 # CUSTOMER SEGMENTATION — RFM + K-Means Clustering
 # Dataset  : Online Retail II (UCI / Kaggle)
-# Author   : Douha Brihab
+# Author   : Rihab Douhab
 # Date     : 2026
 # =============================================================
 

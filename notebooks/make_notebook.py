@@ -29,7 +29,7 @@ SECTIONS = [
 
 INTRO_MD = """# 🛍️ Customer Segmentation — RFM + K-Means Clustering
 
-**Author:** Douha Brihab  
+**Author:** Rihab Douhab  
 **Dataset:** Online Retail II (UCI Machine Learning Repository)  
 **Stack:** Python · Pandas · scikit-learn · Matplotlib · Seaborn
 
